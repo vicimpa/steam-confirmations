@@ -3,4 +3,5 @@ package-lock.json
 **/*.ts
 !**/*.d.ts
 tsconfig.json
-.git*
+.git
+.gitignore
