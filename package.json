@@ -1,6 +1,6 @@
 {
   "name": "steam-confirmations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module allows you to accept confirmation of sales and trades in the Steam Community. Simple interface. TypeScript support.",
   "main": "index.js",
   "keywords": [
