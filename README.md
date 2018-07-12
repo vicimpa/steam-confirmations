@@ -104,7 +104,7 @@ class SteamMobile {
 #### SteamMobileConfList:
 ```ts
 class SteamMobile {
-  length: number                      // Number of Confirmations
+  length: number                      // Coun Confirmations
   idsConfirmations: number[]          // Array of Confirmation ID
   confirmations: SteamConfirmation[]  // Array of Confirmation
 
