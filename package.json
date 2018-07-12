@@ -1,11 +1,23 @@
 {
   "name": "steam-confirmations",
   "version": "1.0.0",
-  "description": "",
+  "description": "This module allows you to accept confirmation of sales and trades in the Steam Community. Simple interface. TypeScript support.",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "steamcommunity",
+    "steam",
+    "mobile",
+    "confirmations",
+    "easy",
+    "typescript",
+    "async",
+    "methods",
+    "promise"
+  ],
+  "readme": "README.md",
+  "repository": "https://github.com/vicimpa/steam-confirmations",
+  "author": "PromiSe####",
+  "license": "MIT",
   "devDependencies": {
     "@types/cheerio": "^0.22.8",
     "@types/node": "^10.5.2",
