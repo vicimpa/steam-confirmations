@@ -57,5 +57,5 @@ declare module 'steam-confirmations' {
     sendConfirm(confirmation: SteamConfirmation, operator: SteamMobile.TOperator): Promise<boolean>
   }
 
-  export = SteamMobile
+  export {SteamMobile}
 }
