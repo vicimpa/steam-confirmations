@@ -1,0 +1,19 @@
+{
+  "name": "steam-confirmations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.8",
+    "@types/node": "^10.5.2",
+    "@types/request": "^2.47.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "crypto": "^1.0.1",
+    "request": "^2.87.0"
+  }
+}
